@@ -1,0 +1,15 @@
+z test
+population(miu,sigma2)/sampling(M=miu,SD=sigma/root(n) SD:standard error)
+
+t test -- when miu and sigma unknown
+
+
+ANOVA (F test) --more than 2 independent samples
+
+
+Correlation -- two variables that are probably related
+  correlation coefficient: r
+  coefficient of determination: r^2
+
+Regression -- line of best fit
+
